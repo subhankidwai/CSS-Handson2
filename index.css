@@ -1,6 +1,10 @@
 .bgimg{
     background-image: url(https://previews.123rf.com/images/romastudio/romastudio1603/romastudio160300203/54088672-healthy-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.jpg);
-    margin-bottom: 100px;
+    margin: 0px;
+    border-style: groove;
+    border-width: 15px;
+    border-color: greenyellow;
+    padding-bottom: 100px;
 }
 
 #h1{
@@ -11,15 +15,17 @@
 .b1{
     color: white;
     background-color: black;
+    height: 150px;
     border: 5px solid;
     border-color: red;
     border-radius: 20px;
     font-style: italic;
-    padding: 29px;
+    padding: 30px;
     text-align: center;
     margin-left: 100px;
     margin-top: 30px;
     box-sizing: border-box;
+    font-size: 30px;
 }
 
 .b2{
@@ -29,13 +35,14 @@
     border-color: red;
     border-radius: 50px;
     font-style: italic;
-    padding-top: 23px;
+    padding-top: 10px;
     text-align: center;
-    margin-top: 30px;
-    margin-left: 150px;
+    margin-top: 50px;
+    margin-left: -100px;
     padding-left: 30px;
     padding-right: 30px;
     word-spacing: 20px;
+    margin-bottom: 110px;
 }
 
 .b3{
@@ -47,8 +54,9 @@
     border-radius: 20px;
     text-align: center;
     margin-top: 30px;
-    margin-left: 150px;
+    margin-left: 250px;
     padding: 20px;
+    margin-bottom: 100px;
 }
 
 #h2{
