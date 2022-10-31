@@ -1,0 +1,121 @@
+.bgimg{
+    background-image: url(https://previews.123rf.com/images/romastudio/romastudio1603/romastudio160300203/54088672-healthy-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.jpg);
+    margin-bottom: 100px;
+}
+
+#h1{
+    
+    display: flex;
+}
+
+.b1{
+    color: white;
+    background-color: black;
+    border: 5px solid;
+    border-color: red;
+    border-radius: 20px;
+    font-style: italic;
+    padding: 29px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    box-sizing: border-box;
+}
+
+.b2{
+    color: white;
+    background-color: black;
+    border: 5px solid;
+    border-color: red;
+    border-radius: 50px;
+    font-style: italic;
+    padding-top: 23px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
+    word-spacing: 20px;
+}
+
+.b3{
+    color: white;
+    font-style: italic;
+    background-color: black;
+    border: 5px solid;
+    border-color: red;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 150px;
+    padding: 20px;
+}
+
+#h2{
+    display: flex;
+}
+
+.b4{
+    font-style: italic;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(73, 62, 73);
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+    height: 233px;
+    width: 350px;
+    border-radius: 186px;
+    padding-top: 122px;
+    padding-bottom: 0px;
+    font-weight: bold;
+    
+}
+
+.b5{
+    text-align: center;
+    margin: 100px;
+    margin-block: 60px;
+    margin-left: 100px;
+    border-width: 7px;
+    border-color: red;
+    border-style: dashed;
+    color: rgb(45, 107, 55);
+    padding: 15px;
+}
+
+#h3{
+    font-style: italic;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    border-color: red;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    margin-right: 450px;
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+.flex-c1{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.b6{
+    color: rgb(49, 49, 146);
+    background-color: aqua;
+    border-style: solid;
+    border-color: green;
+    border-radius: 20px;
+    padding: 20px;
+    width: 230px;
+    height: 235px;
+    text-align: center;
+}
